@@ -24,12 +24,12 @@ const Intro = ({ data }) => {
                             <Button
                                 path={process.env.PUBLIC_URL + "/"}
                                 classOption="btn btn-danger me-3 animated delay1"
-                                text="Call Us Now"
+                                text="CALL US NOW"
                             />
                             <Button
                                 path={process.env.PUBLIC_URL + "/"}
                                 classOption="btn btn-outline-secondary animated delay2"
-                                text="Book Online"
+                                text="BOOK ONLINE"
                             />
                         </div>
                     </div>
