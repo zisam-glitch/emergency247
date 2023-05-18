@@ -6,7 +6,8 @@ const Intro = ({ data }) => {
         <div
             className="intro-section"
             style={{
-                backgroundImage: `url(${process.env.PUBLIC_URL + data.backgroundImage})`,
+                backgroundImage: `url(${process.env.PUBLIC_URL + data.backgroundImage
+                    })`,
             }}
         >
             <div className="container">
@@ -23,12 +24,12 @@ const Intro = ({ data }) => {
                             <Button
                                 path={process.env.PUBLIC_URL + "/"}
                                 classOption="btn btn-danger me-3 animated delay1"
-                                text="CALL US NOW"
+                                text="Get a quote"
                             />
                             <Button
                                 path={process.env.PUBLIC_URL + "/"}
                                 classOption="btn btn-outline-secondary animated delay2"
-                                text="BOOK ONLINE"
+                                text="our services"
                             />
                         </div>
                     </div>
