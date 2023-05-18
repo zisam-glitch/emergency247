@@ -11,13 +11,13 @@
                 "id": 2,
                 "icon": "icofont-ui-call",
                 "title": "hotline 24/7",
-                "info": "0113 322 8354"
+                "info": "+0123-45-67-890"
             },
             {
                 "id": 3,
                 "icon": "icofont-envelope",
                 "title": "email us",
-                "info": "demoa@yourmail.com"
+                "info": "demo@yourmail.com"
             }
         ]
     },
@@ -26,8 +26,8 @@
             {
                 "id": 1,
                 "backgroundImage": "./img/slider/slide1.jpg",
-                "subTitle": "Covering LEEDS 24 Hours 7 days of the week including National and Bank Holidays",
-                "title": "Emergency Dentist <span>Is</span><span class='d-block'>£45 consultation</span>"
+                "subTitle": "feel the difference with us",
+                "title": "Your Health <span>Is</span><span class='d-block'>Our Priority</span>"
             },
             {
                 "id": 2,
@@ -171,11 +171,7 @@
                 "title": "Trial",
                 "price": "<h2><sup>$</sup>5</h2><span class='period'>/ month</span>",
                 "excerpt": "Free with 14 days trial, then you can choose plan",
-                "pricingList": [
-                    "1 Cleaners",
-                    "Floor Cleaning",
-                    "2 Rooms"
-                ],
+                "pricingList": ["1 Cleaners", "Floor Cleaning", "2 Rooms"],
                 "btnClassOption": "btn-theme btn-border"
             },
             {
@@ -184,12 +180,7 @@
                 "title": "Standard",
                 "price": "<h2><sup>$</sup>29</h2><span class='period'>/ month</span>",
                 "excerpt": "Free with 14 days trial, then you can choose plan",
-                "pricingList": [
-                    "3 Cleaners",
-                    "All House Cleaning",
-                    "All Rooms",
-                    "Equipment Cleaning"
-                ],
+                "pricingList": ["3 Cleaners", "All House Cleaning", "All Rooms", "Equipment Cleaning"],
                 "btnClassOption": "btn-theme btn-border active"
             },
             {
@@ -198,11 +189,7 @@
                 "title": "premium",
                 "price": "<h2><sup>$</sup>59</h2><span class='period'>/ month</span>",
                 "excerpt": "Free with 14 days trial, then you can choose plan",
-                "pricingList": [
-                    "2 Cleaners",
-                    "Normal Clean",
-                    "3 Rooms"
-                ],
+                "pricingList": ["2 Cleaners", "Normal Clean", "3 Rooms"],
                 "btnClassOption": "btn-theme btn-border"
             },
             {
@@ -211,13 +198,7 @@
                 "title": "Ultimate",
                 "price": "<h2><sup>$</sup>99</h2><span class='period'>/ month</span>",
                 "excerpt": "Free with 14 days trial, then you can choose plan",
-                "pricingList": [
-                    "5 Cleaners",
-                    "All Office Cleaning",
-                    "All Rooms",
-                    "Equipments Cleaning",
-                    "Exterior Glasses"
-                ],
+                "pricingList": ["5 Cleaners", "All Office Cleaning", "All Rooms", "Equipments Cleaning", "Exterior Glasses"],
                 "btnClassOption": "btn-theme btn-border"
             }
         ]
