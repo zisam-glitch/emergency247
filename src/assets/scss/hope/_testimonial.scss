@@ -6,17 +6,21 @@
 .testimonial-area {
   &.testimonial-default-area {
     padding-top: 125px;
+    padding-bottom: 125px ;
     @media #{$lg-device} {
       padding-top: 90px;
+      padding-bottom: 90px ;
     }
     @media #{$sm-device} {
       padding-top: 80px;
+      padding-bottom: 80px ;
     }
     @media #{$xs-device} {
       padding-top: 80px;
+      padding-bottom: 80px ;
     }
     .section-title {
-      margin-bottom: 100px;
+      margin-bottom: 0px;
       @media #{$lg-device} {
         margin-bottom: 75px;
       }
@@ -73,7 +77,7 @@
   }
 
   .client-info {
-    margin-bottom: 35px;
+    margin-bottom: 0px;
     position: relative;
     .name {
       color: $theme-color;
@@ -131,6 +135,7 @@
       @include transition(0.3s);
       @media #{$sm-device} {
         font-size: 36px;
+        display: none;
       }
     }
     &:hover {

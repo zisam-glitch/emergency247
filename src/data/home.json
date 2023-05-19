@@ -5,35 +5,35 @@
                 "id": 1,
                 "icon": "icofont-clock-time",
                 "title": "working hours",
-                "info": "MON - FRI: 9.00 - 21.00"
+                "info": "SUN - SAT: 24.00 - 23.59"
             },
             {
                 "id": 2,
                 "icon": "icofont-ui-call",
                 "title": "hotline 24/7",
-                "info": "+0123-45-67-890"
+                "info": "0113 322 8354"
             },
             {
                 "id": 3,
                 "icon": "icofont-envelope",
                 "title": "email us",
-                "info": "demo@yourmail.com"
+                "info": "hello@emergency247dentist.co.uk"
             }
         ]
     },
     {
         "slider": [
             {
-                "id": 1,
-                "backgroundImage": "./img/slider/slide1.jpg",
-                "subTitle": "Covering LEEDS 24 Hours 7 days of the week including National and Bank Holidays",
-                "title": "Emergency Dentist <span class='d-block'>£45 consultation</span>"
-            },
-            {
                 "id": 2,
-                "backgroundImage": "./img/slider/slide2.jpg",
+                "backgroundImage": "./img/slider/slide1.jpg",
                 "subTitle": "feel the difference with us",
                 "title": "Your Health <span>Is</span><span class='d-block'>Our Priority</span>"
+            },
+            {
+                "id": 1,
+                "backgroundImage": "./img/slider/slide2.jpg",
+                "subTitle": "Covering LEEDS 24 Hours 7 days of the week including National and Bank Holidays",
+                "title": "Emergency Dentist <span class='d-block'>£45 consultation</span>"
             }
         ]
     },
@@ -126,16 +126,37 @@
             {
                 "id": 1,
                 "image": "./img/testimonial/01.jpg",
-                "excerpt": "“It’s been an absolute pleasure to work with hope, <br /> their response to our brief exceeded expectations and the execution was efficient, professional and very reassuring. I’d fully recommend theme.”",
-                "name": "Steven Gerrard",
-                "location": "Golden Lotus Apartment, Brooklyn, USA"
+                "excerpt": "“Called for an emergency appointment, <br /> was seen within 2hrs and had my tooth out. Very efficient service.”",
+                "name": "Jon Bakken",
+                "location": "Customer"
             },
             {
                 "id": 2,
                 "image": "./img/testimonial/02.jpg",
-                "excerpt": "“It’s been an absolute pleasure to work with hope, <br /> their response to our brief exceeded expectations and the execution was efficient, professional and very reassuring. I’d fully recommend theme.”",
-                "name": "Kristina Castle",
-                "location": "Golden Lotus Apartment, HasThemes, BNA"
+                "excerpt": "“Lovely practice.<br />  Was clean and receptionist was very welcoming.”",
+                "name": "Sarah Davies",
+                "location": "Customer"
+            },
+            {
+                "id": 3,
+                "image": "./img/testimonial/01.jpg",
+                "excerpt": "“Dentist was great, <br /> explained the treatment and carried out the treatment  <br />  pain free.”",
+                "name": "Andrea Velle",
+                "location": "Customer"
+            },
+            {
+                "id": 4,
+                "image": "./img/testimonial/01.jpg",
+                "excerpt": "“I rang at 10pm, was seen at 11pm <br />  had a broken tooth. My tooth was fixed within 30 minutes and now I am pain free!”",
+                "name": "Elle Aasen",
+                "location": "Customer"
+            },
+            {
+                "id": 5,
+                "image": "./img/testimonial/01.jpg",
+                "excerpt": "“Had an appointment on Sunday evening. <br />  I had a very bad toothache. The dentist was very gently and reassuring.”",
+                "name": "Isa Holmgren",
+                "location": "Customer"
             }
         ]
     },

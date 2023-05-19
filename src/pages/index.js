@@ -29,7 +29,6 @@ const HomePage = () => {
                         <AppointmentContainer />
                         <TeamContainer />
                         <TestimonialContainer />
-                        <BrandContainer />
                         <PricingContainer />
                         <BlogAccordion />
                         <GoogleMapContainer />

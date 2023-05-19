@@ -35,7 +35,7 @@ const TestimonialContainer = () => {
                         <SectionTitle
                             classOption="text-center"
                             subTitle="Testimonial"
-                            title="<span>Trusted</span> From Clients"
+                            title="<span>Trusted</span> From Patients"
                         />
                     </div>
                 </div>

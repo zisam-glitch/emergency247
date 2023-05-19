@@ -25,12 +25,12 @@ const Intro = ({ data }) => {
                             <Button
                                 path={process.env.PUBLIC_URL + "/"}
                                 classOption="btn btn-danger me-3 animated delay1"
-                                text="Get a quote"
+                                text="Call Us Now"
                             />
                             <Button
                                 path={process.env.PUBLIC_URL + "/"}
                                 classOption="btn btn-outline-secondary animated delay2"
-                                text="our services"
+                                text="BOOK ONLINE"
                             />
                         </div>
                     </div>
