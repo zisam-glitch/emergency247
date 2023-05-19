@@ -17,7 +17,7 @@
     "swiper": "^6.5.6"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
@@ -52,5 +52,9 @@
     "eslint-plugin-react": "^7.23.1",
     "eslint-plugin-react-hooks": "^4.2.0",
     "prettier": "^2.2.1"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/zisam-glitch/emergency247.git",
+  "author": "zisam-glitch <128255158+zisam-glitch@users.noreply.github.com>",
+  "license": "MIT"
 }
