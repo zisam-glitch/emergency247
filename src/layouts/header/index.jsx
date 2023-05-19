@@ -36,8 +36,8 @@ const Header = () => {
                             <div className="col">
                                 <p>
                                     <i className="icofont-google-map"></i>{" "}
-                                    <span>ADDRESS:</span> 568 Elizaberth Str,
-                                    London, UK
+                                    <span>ADDRESS:</span> 7-9 Branch Road,
+                                    LEEDS, LS12 3AQ.
                                 </p>
                             </div>
                             <div className="col">
