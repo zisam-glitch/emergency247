@@ -63,39 +63,51 @@
         "medicalFeature": [
             {
                 "id": 1,
-                "icon": "icofont-prescription",
-                "title": "Medical Counseling",
-                "excerpt": "Lorem ipsum dolor sit amet, consect adipisicing elit vero. Donec ultri sollicitudin lacus"
+                "icon": "fa-solid fa-teeth",
+                "title": "Toothache",
+                "excerpt": "Throbbing pain in teeth. Seek dental care to alleviate discomfort."
             },
             {
                 "id": 2,
-                "icon": "icofont-doctor-alt",
-                "title": "Top Level Doctors",
-                "excerpt": "Lorem ipsum dolor sit amet, consect adipisicing elit vero. Donec ultri sollicitudin lacus"
+                "icon": "fa-solid fa-teeth-open",
+                "title": "Sensitivity",
+                "excerpt": "Pain from hot, cold, or sweet stimuli. Consult dentist for relief."
             },
             {
                 "id": 3,
-                "icon": "icofont-microscope",
-                "title": "Medical Facilites",
-                "excerpt": "Lorem ipsum dolor sit amet, consect adipisicing elit vero. Donec ultri sollicitudin lacus"
+                "icon": "fa-solid fa-tooth",
+                "title": "Broken Filling Tooth",
+                "excerpt": "Damaged tooth. Dental attention needed. Avoid chewing on affected side."
             },
             {
                 "id": 4,
-                "icon": "icofont-ambulance-cross",
-                "title": "24 Hours Services",
-                "excerpt": "Lorem ipsum dolor sit amet, consect adipisicing elit vero. Donec ultri sollicitudin lacus"
+                "icon": "fa-brands fa-cloudsmith",
+                "title": "Swelling/Abscess",
+                "excerpt": "Painful swelling, seek immediate dental attention."
             },
             {
                 "id": 5,
-                "icon": "icofont-blood",
-                "title": "Personal Services",
-                "excerpt": "Lorem ipsum dolor sit amet, consect adipisicing elit vero. Donec ultri sollicitudin lacus"
+                "icon": "fa-solid fa-teeth-open",
+                "title": "Denture Ajdustment",
+                "excerpt": "Fine-tuning for comfortable fit. Dental professional can help."
             },
             {
                 "id": 6,
-                "icon": "icofont-paralysis-disability",
-                "title": "Dedicated Patient Care",
-                "excerpt": "Lorem ipsum dolor sit amet, consect adipisicing elit vero. Donec ultri sollicitudin lacus"
+                "icon": "fa-solid fa-teeth",
+                "title": "Re-cement Crowns",
+                "excerpt": "Restoring loose or dislodged dental crowns professionally."
+            },
+            {
+                "id": 7,
+                "icon": "fa-solid fa-drum-steelpan",
+                "title": "Dental Trauma",
+                "excerpt": "Injury to teeth. Urgent dental attention required for proper treatment."
+            },
+            {
+                "id": 8,
+                "icon": "fa-solid fa-holly-berry",
+                "title": "Painful Gums",
+                "excerpt": "Soreness and discomfort. Dental check-up recommended for relief."
             }
         ]
     },

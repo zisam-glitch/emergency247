@@ -41,30 +41,63 @@ const TeamContainer = () => {
                     <div className="col-lg-12">
                         <SectionTitle
                             classOption="text-center"
-                            subTitle="Meet Our Docots"
-                            title="<span>Professional &amp;</span> Enthusiastic"
+                            title="<span>How much </span> does it cost?"
                         />
                     </div>
                 </div>
-                <div className="row">
-                    <div
-                        className="col-lg-12"
-                        data-aos="fade-up"
-                        data-aos-duration="1300"
-                    >
-                        <Swiper
-                            className="team-slider-container"
-                            {...swiperOption}
-                        >
-                            {HomeData[4].team &&
-                                HomeData[4].team.map((single, key) => {
-                                    return (
-                                        <SwiperSlide key={key}>
-                                            <Team key={key} data={single} />
-                                        </SwiperSlide>
-                                    );
-                                })}
-                        </Swiper>
+                <div className="mms">
+                    <div className="row">
+                        <div className="gtid">
+                            <div className="heasdd">
+                                <h5>
+                                    All patients receive an individual treatment
+                                    plan with clearly illustrated costs prior to
+                                    undergoing emergency dental treatment.
+                                </h5>
+
+                                <li>Tooth Extraction – from £120</li>
+                                <li>
+                                    Filling (temporary/ composite/ amalgam) –
+                                    from £99{" "}
+                                </li>
+                                <li>Antibiotics – £25</li>
+                                <li>
+                                    Irrigation/cleaning of gums &/or wisdom
+                                    tooth – £75
+                                </li>
+                                <li>Dry socket – £60</li>
+                                <li>
+                                    Accessing & dressing a tooth – from £170{" "}
+                                </li>
+                                <li>Surgical drainage of abscess – £160</li>
+                                <li>
+                                    Recement bridge/crown/veneer – from £60{" "}
+                                </li>
+                                <li>
+                                    Re-make or repair temporary
+                                    bridge/crown/veneer – from £70
+                                </li>
+                                <li>
+                                    Re-fixing a tooth loosened by trauma – £195
+                                </li>
+                            </div>
+                            <div className="heasdd">
+                                <h5>
+                                    Consultation include exam, X-rays and
+                                    diagnosis appointment fee
+                                </h5>
+
+                                <li>£45 Monday to Friday between 9am – 5pm</li>
+                                <li>
+                                    £90 Out of Hours – Weekends 9am – 8pm and
+                                    Weekdays 5pm – 8pm
+                                </li>
+                                <li>
+                                    contact us for prices and appointments after
+                                    8pm
+                                </li>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

@@ -13,31 +13,11 @@ const MainMenu = () => {
                 <li>
                     <NavLink
                         className="main-menu-link"
+                        exact
                         to={process.env.PUBLIC_URL + "/service"}
                     >
                         Services
                     </NavLink>
-                    <ul className="sub-menu">
-                        <li>
-                            <NavLink
-                                className="sub-menu-link"
-                                to={process.env.PUBLIC_URL + "/service"}
-                            >
-                                Services
-                            </NavLink>
-                        </li>
-                        <li>
-                            <NavLink
-                                className="sub-menu-link"
-                                to={
-                                    process.env.PUBLIC_URL +
-                                    "/service-details/1"
-                                }
-                            >
-                                Service Details
-                            </NavLink>
-                        </li>
-                    </ul>
                 </li>
 
                 <li>

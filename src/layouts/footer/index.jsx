@@ -15,26 +15,23 @@ const Footer = () => {
                                     classOption="footer-logo"
                                     image={`${process.env.PUBLIC_URL}/img/logo-dark.png`}
                                 />
-                                <p className="mb-0">
-                                    Sed elit quam, iaculis sed semper sit amet
-                                    udin vitae nibh at magna akal semperFusce.
-                                </p>
+                                <p className="mb-0">Emergency 247 Dentist</p>
                                 <ul className="widget-contact-info">
                                     <li className="info-address">
                                         <i className="icofont-location-pin"></i>
-                                        69 Halsey St, New York, Ny 10002, United
-                                        States.
+                                        ADDRESS: 7-9 Branch Road, LEEDS, LS12
+                                        3AQ.
                                     </li>
                                     <li className="info-mail">
                                         <i className="icofont-email"></i>
-                                        <a href="mailto://hello@yourdomain.com">
-                                            hello@yourdomain.com
+                                        <a href="mailto://hello@emergency247dentist.co.uk">
+                                            hello@247dentist.co.uk
                                         </a>
                                     </li>
                                     <li className="info-phone">
                                         <i className="icofont-ui-call"></i>
-                                        <a href="tel://(0091)8547632521">
-                                            (0091) 8547 632521
+                                        <a href="tel://0113 322 8354">
+                                            0113 322 8354
                                         </a>
                                     </li>
                                 </ul>
@@ -49,35 +46,29 @@ const Footer = () => {
                             <div className="widget-tags">
                                 <ul>
                                     <li>
-                                        <Link to="/">Amazing</Link>
+                                        <Link to="/">emergency dentist</Link>
                                     </li>
                                     <li>
-                                        <Link to="/">Envato</Link>
+                                        <Link to="/">
+                                            emergency dentist near me
+                                        </Link>
                                     </li>
                                     <li>
-                                        <Link to="/">Themes</Link>
+                                        <Link to="/">dentist</Link>
                                     </li>
                                     <li>
-                                        <Link to="/">Clean</Link>
+                                        <Link to="/">emergency dental</Link>
                                     </li>
                                     <li>
-                                        <Link to="/">Wordpress</Link>
+                                        <Link to="/">
+                                            tampa emergency dentist
+                                        </Link>
                                     </li>
-                                    <li>
-                                        <Link to="/">Creative</Link>
-                                    </li>
-                                    <li>
-                                        <Link to="/">Mutilpurpose</Link>
-                                    </li>
-                                    <li>
-                                        <Link to="/">Retina Ready</Link>
-                                    </li>
-                                    <li>
-                                        <Link to="/">Twitter</Link>
-                                    </li>
-                                    <li>
-                                        <Link to="/">Responsive</Link>
-                                    </li>
+                                    {/* <li>
+                                        <Link to="/">
+                                            emergency dentist 24/7
+                                        </Link>
+                                    </li> */}
                                 </ul>
                             </div>
                         </div>
@@ -85,45 +76,24 @@ const Footer = () => {
                     <div className="col-sm-6 col-md-5 col-lg-4 col-xl-3">
                         <div className="widget-item">
                             <h4 className="widget-title line-bottom">
-                                Recent Posts
+                                Quick Links
                             </h4>
                             <nav className="widget-posts">
                                 <ul className="posts-item">
                                     <li>
-                                        <Link to="/">
-                                            <i className="icon icofont-rounded-double-right"></i>
-                                            Lorem Ispum dolor sit amet putilor
-                                        </Link>
+                                        <Link to="/">Home</Link>
                                     </li>
                                     <li>
-                                        <Link to="/">
-                                            <i className="icon icofont-rounded-double-right"></i>
-                                            Medical is all about quality.
-                                        </Link>
+                                        <Link to="/">Services</Link>
                                     </li>
                                     <li>
-                                        <Link to="/">
-                                            <i className="icon icofont-rounded-double-right"></i>
-                                            Is your website user friendly ?
-                                        </Link>
+                                        <Link to="/">About</Link>
                                     </li>
+                                    {/* <li>
+                                        <Link to="/">Reviews</Link>
+                                    </li> */}
                                     <li>
-                                        <Link to="/">
-                                            <i className="icon icofont-rounded-double-right"></i>
-                                            Ai offer weekly updates &amp; more.
-                                        </Link>
-                                    </li>
-                                    <li>
-                                        <Link to="/">
-                                            <i className="icon icofont-rounded-double-right"></i>
-                                            Customer should love your web.
-                                        </Link>
-                                    </li>
-                                    <li>
-                                        <Link to="/">
-                                            <i className="icon icofont-rounded-double-right"></i>
-                                            Your site smooth and stunning.
-                                        </Link>
+                                        <Link to="/">Contact</Link>
                                     </li>
                                 </ul>
                             </nav>
@@ -176,19 +146,7 @@ const Footer = () => {
                     <div className="row text-center">
                         <div className="col-sm-12">
                             <div className="widget-copyright">
-                                <p>
-                                    &copy; 2021{" "}
-                                    <span className="text-uppercase">hope</span>
-                                    . Made with{" "}
-                                    <i className="icofont-heart-alt"></i> by{" "}
-                                    <a
-                                        target="_blank"
-                                        href="https://www.hasthemes.com"
-                                        rel="noreferrer"
-                                    >
-                                        HasThemes
-                                    </a>
-                                </p>
+                                <p>Copyright 2023 emergency247dentist</p>
                             </div>
                         </div>
                     </div>
